@@ -1,0 +1,6 @@
+http://group.pearlofarabia.com/ (Domain not setup yet)
+http://group.search.pearlsoftwaresolution.com/ (Domain not setup yet)
+http://group.test.pearlsoftwaresolution.com/ (Domain not setup yet)
+http://group.dev.pearlsoftwaresolution.com/ (Incomplete files download| PHP Upgraded)
+http://192.168.2.183/lan/com/squalltec/dm/group/public_html/ (Does NOT work; permission error)
+http://localhost/poa/com/squalltec/dm/group/public_html/ (Works)
